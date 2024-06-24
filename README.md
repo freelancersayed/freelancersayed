@@ -4,9 +4,9 @@ I'm a passionate Web Developer from Bangladesh.
 
 ## 👀 About Me
 - 🌱 I’m currently learning Next.js, React, Javascript, Tailwind
-- 🧑‍💻 Most of my projects are available on [Link to your portfolio or website]
-- 💬 Ask me about [Your areas of expertise]
-- 📫 How to reach me: [Your email or LinkedIn]
+- 🧑‍💻 Most of my projects are available on https://learn-together-83b9e.web.app
+- 💬 Ask me about https://web.programming-hero.com
+- 📫 How to reach me: https://www.linkedin.com/in/mdsayedhossain
 
 ## 🛠️ Skills and Tools
 - Languages:  JavaScript, HTML, CSS
