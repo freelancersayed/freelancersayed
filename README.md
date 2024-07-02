@@ -1,5 +1,4 @@
-
- <img src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg" />
+<img src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg" />
 
 # Hi there, I'm Sayed 👋
 
@@ -7,9 +6,9 @@ I'm a passionate Web Developer from Bangladesh.
 
 ## 👀 About Me
 - 🌱 I’m currently learning Next.js, React, Javascript, Tailwind
-- 🧑‍💻 Most of my projects are available on https://learn-together-83b9e.web.app
-- 💬 Ask me about https://web.programming-hero.com
-- 📫 How to reach me: https://www.linkedin.com/in/mdsayedhossain
+- 🧑‍💻 Most of my projects are available on <a href="https://learn-together-83b9e.web.app"><img src="https://img.icons8.com/nolan/40/domain.png"/></a>
+- 💬 Ask me about <a href="https://web.programming-hero.com"><img src="https://img.icons8.com/nolan/40/ask-question.png"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mdsayedhossain"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
 
 ## 🛠️ Skills and Tools
 - Languages:  JavaScript, HTML, CSS
@@ -23,7 +22,6 @@ I'm a passionate Web Developer from Bangladesh.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancersayed&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
-<a><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/></a>
-LinkedIn (https://www.linkedin.com/in/mdsayedhossain/)
-Twitter (https://x.com/sayedhossain45)
-Email freelancersayed45@gmail.com)
+<a href="https://www.linkedin.com/in/mdsayedhossain"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
+<a href="https://x.com/sayedhossain45"><img src="https://img.icons8.com/nolan/40/twitter.png"/></a>
+<a href="mailto:freelancersayed45@gmail.com"><img src="https://img.icons8.com/nolan/40/email.png"/></a>
