@@ -23,6 +23,7 @@ I'm a passionate Web Developer from Bangladesh.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freelancersayed&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
+<a><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/></a>
 LinkedIn (https://www.linkedin.com/in/mdsayedhossain/)
 Twitter (https://x.com/sayedhossain45)
 Email freelancersayed45@gmail.com)
