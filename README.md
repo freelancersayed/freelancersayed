@@ -5,7 +5,11 @@
 I'm a passionate Web Developer from Bangladesh.
 
 ## 👀 About Me
-- 🌱 I’m currently learning Next.js, React, Javascript, Tailwind
+- 🌐 Enthusiastic web developer with a knack for creating engaging and user-friendly web applications. 
+- 🌱 Currently diving deep into Next.js, React, JavaScript, and Tailwind.
+- 💻 I love transforming ideas into reality using code.
+- 🌟 Continuously seeking to improve and learn new technologies to stay ahead in the tech world.
+
 - 🧑‍💻 Most of my projects are available on <a href="https://learn-together-83b9e.web.app"><img src="https://img.icons8.com/nolan/40/domain.png"/></a>
 - 💬 Ask me about <a href="https://web.programming-hero.com"><img src="https://img.icons8.com/nolan/40/ask-question.png"/></a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mdsayedhossain"><img src="https://img.icons8.com/nolan/40/linkedin.png"/></a>
